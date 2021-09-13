@@ -26,6 +26,7 @@ margin:0 auto;
     background-color: var(--primary-color);
     color:var(--white);
     box-shadow: 0.1em 0.2em 0.1em var(--light-grey);
+    
 }
 /* navigation styles */
 .navigation{
