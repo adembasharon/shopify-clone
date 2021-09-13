@@ -86,7 +86,9 @@ nav ul li{
 .heroright img {
     width: 100%;
 }
-
+header{
+    background-color:var(--white) ;
+}
 
 
 
